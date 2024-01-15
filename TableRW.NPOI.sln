@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableRW.NPOI", "TableRW.NPOI\TableRW.NPOI.csproj", "{6899FBE5-DBB3-4DD2-995D-0E551DD5950A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TableRW.NPOI.Tests", "TableRW.NPOI.Tests\TableRW.NPOI.Tests.csproj", "{4919993D-FBA6-4E6B-8DEF-DE444534AECC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{156C7F53-892D-43CB-96C5-35FCC159F5EE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6899FBE5-DBB3-4DD2-995D-0E551DD5950A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6899FBE5-DBB3-4DD2-995D-0E551DD5950A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6899FBE5-DBB3-4DD2-995D-0E551DD5950A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6899FBE5-DBB3-4DD2-995D-0E551DD5950A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4919993D-FBA6-4E6B-8DEF-DE444534AECC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4919993D-FBA6-4E6B-8DEF-DE444534AECC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4919993D-FBA6-4E6B-8DEF-DE444534AECC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4919993D-FBA6-4E6B-8DEF-DE444534AECC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A9F92D5-0CE9-42B9-A4DE-E113AC861A98}
+	EndGlobalSection
+EndGlobal
