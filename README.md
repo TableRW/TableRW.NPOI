@@ -7,6 +7,9 @@ A library for reading and writing table data, using expression trees to generate
 dotnet add package TableRW.NPOI
 ```
 
+----
+This library is developed based on **`TableRW`** project, most of the methods are abstractly implemented in **`TableRW`** project, please see **[TableRW](https://github.com/TableRW/TableRW)** for details.
+
 ## Read from `ISheet` to Entity
 
 ### Add namespace

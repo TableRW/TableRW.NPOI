@@ -7,6 +7,9 @@
 dotnet add package TableRW.NPOI
 ```
 
+----
+本库基于 **`TableRW`** 项目进行开发，大部分方法抽象实现在 **`TableRW`** 项目，详情请看 **[TableRW](https://github.com/TableRW/TableRW)**。
+
 ## 从 `ISheet` 读取到 Entity
 
 ### 添加命名空间
